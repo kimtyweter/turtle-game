@@ -10,7 +10,7 @@ high_score=0
 
 # set up the screen
 wn=turtle.Screen()
-wn.title("Snake Game by Mahesh Sawant")
+wn.title("Turtle Game")
 wn.bgcolor("yellow")
 wn.setup(width=600, height=600)
 wn.tracer(0)
